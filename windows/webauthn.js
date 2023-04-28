@@ -24,7 +24,7 @@ const createCredentialOptions = {
             ]
             ,
         attestation: 'direct',
-        timeout: 60000,
+        timeout: 120000 ,
     }
 };
 
